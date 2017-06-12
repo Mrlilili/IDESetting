@@ -1,8 +1,14 @@
 <scheme name="Darcula copy2" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="14" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Consolas" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Courier New" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
+  </font>
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
-  <option name="EDITOR_FONT_NAME" value="Consolas" />
   <attributes>
     <option name="MARKDOWN_NAVIGATOR.BOLD_TEXT_ABBREVIATED_TEXT">
       <value>
